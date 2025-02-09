@@ -1,6 +1,6 @@
-<h1 align="center" style="background-color:#1E1E2E; color:#FFFFFF; padding:10px; border-radius:10px;">Hi there! I'm Ahmed Galaa Ali 👋</h1>
+<h1 align="center" style="background-color:#1E1E2E; color:#FFFFFF; padding:10px; border-radius:10px;">Ahmed Galaa Ali</h1>
 
-<h2 align="center" style="background-color:#282A36; color:#50FA7B; padding:5px; border-radius:5px;">🚀 Data Analyst | SQL | Python | Power BI | Tableau</h2>
+<h2 align="center" style="background-color:#282A36; color:#50FA7B; padding:5px; border-radius:5px;">Data Analyst, Business Intelligence Developer</h2>
 
 <p align="center">Welcome to my GitHub portfolio! I am a <strong>Data Analyst</strong> passionate about turning data into meaningful insights. I have published multiple projects on GitHub, focusing on <strong>data analysis, visualization, and storytelling.</strong></p>
 
