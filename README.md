@@ -2,7 +2,7 @@
 
 <h2 align="center" style="background-color:#282A36; color:#50FA7B; padding:5px; border-radius:5px;">Data Analyst, Business Intelligence Developer</h2>
 
-<p align="center">Welcome to my GitHub portfolio! I am a <strong>Data Analyst</strong> passionate about turning data into meaningful insights. I have published multiple projects on GitHub, focusing on <strong>data analysis, visualization, and storytelling.</strong></p>
+<p align="center">Hello, I'm a <strong>Data Analyst</strong>. I dive deep into the field of <strong>Data Science</strong>, work as a <strong>Freelancer</strong> and have <strong>Medical</strong> background as well.</p>
 
 ---
 
